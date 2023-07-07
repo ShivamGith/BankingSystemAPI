@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dell/DotNet/BankingSystemAPI/BankingSystemAPI.csproj": {}
+  },
+  "projects": {
+    "/home/dell/DotNet/BankingSystemAPI/BankingSystemAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dell/DotNet/BankingSystemAPI/BankingSystemAPI.csproj",
+        "projectName": "BankingSystemAPI",
+        "projectPath": "/home/dell/DotNet/BankingSystemAPI/BankingSystemAPI.csproj",
+        "packagesPath": "/home/dell/.nuget/packages/",
+        "outputPath": "/home/dell/DotNet/BankingSystemAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus-kuber.lendfoundry.com/repository/nuget-hosted/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.119/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
