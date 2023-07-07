@@ -1,0 +1,20 @@
+{
+    "ValidDetails" : {
+        "Error":"Please Enter Valid Details."
+    },
+    "ValidPrincipal" :{
+            "Error":"Please Enter Valid Principal"
+    },
+    "ValidRate" :{
+        "Error":"Please Enter Valid Rate"
+    },
+    "ValidInstallments" :{
+        "Error":"Please Enter Valid number of Installments."
+    },
+    "SomethingWentWrong" :{
+        "Error":"Something Went Wrong, Please Try Again!"
+    },
+    "Internal ServerError":{
+        "Error":"Internal Server Error, Please Try After Sometime."
+    }
+}

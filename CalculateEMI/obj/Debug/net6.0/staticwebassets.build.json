@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SHqR62bUcMV2AbBwCVc7Lz8OCBhssfwr326zmTqzuc0=",
+  "Source": "CalculateEMI",
+  "BasePath": "_content/CalculateEMI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
